@@ -20,6 +20,8 @@ O objetivo é ler um arquivo CSV com transações bancárias, validar os dados, 
 - `desafio-final.ipynb`: notebook principal com o desenvolvimento e as saídas;
 - `transacoes.csv`: arquivo utilizado como entrada;
 - `relatorio.json`: arquivo gerado com o resultado da análise;
+- `analise_pandas.py`: versão alternativa da análise utilizando pandas;
+- `grafico.png`: gráfico com o saldo mensal das transações.
 - `README.md`: descrição do projeto.
 
 ## Como executar
@@ -37,6 +39,8 @@ Ao final da execução, o relatório será exibido e o arquivo `relatorio.json` 
 - CSV
 - JSON
 - datetime
+- pandas
+- matplotlib
 
 ## Resultado
 
